@@ -1,0 +1,13 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="80" fill="url(#paint0_linear)"/>
+  <circle cx="160" cy="140" r="90" fill="white" fill-opacity="0.35"/>
+  <circle cx="680" cy="640" r="130" fill="white" fill-opacity="0.25"/>
+  <path d="M400 605C305 525 210 452 210 335C210 262 264 210 333 210C374 210 402 231 420 258C438 231 466 210 507 210C576 210 630 262 630 335C630 452 495 525 400 605Z" fill="white" fill-opacity="0.72"/>
+  <text x="400" y="695" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#be185d">Foto 7</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#fbcfe8"/>
+    </linearGradient>
+  </defs>
+</svg>
